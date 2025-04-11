@@ -1,0 +1,16 @@
+Finger Counting
+pip install opencv-python mediapipe numpy
+
+
+Emotion Detection 
+pip install opencv-python deepface numpy
+
+
+Object Detection 
+pip install opencv-python ultralytics
+
+Maze: 
+pip install pygame
+
+Combined pip install
+pip install opencv-python mediapipe torch torchvision torchaudio matplotlib pillow numpy pygame
